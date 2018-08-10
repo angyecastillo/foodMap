@@ -15,7 +15,7 @@ La pantalla principal de la aplicación muestra un filtro de búsqueda y las opc
 
 Las palabras que se ingresen el filtro de búsqueda serán comparadas con la comida que se ofrece en cada restaurante o con el nombre de este, según la data local de la que se dispone.
 
-![vista 2](images/vista 2.jpg
+![vista2](images/vista 2.jpg)
 
 Al hacer click en las miniaturas, aparece un modal que muestra la información de cada restaurante, así como su ubicación en el mapa.
 
